@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Proj5_byYakupY.Building" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAECIAAAAggAAIAAAADIAAIAQQAIAAEBKAAAEAAA=</HashCode>
+      <FileName>Classes\Building.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.AdvancedTower" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Buildings\AdvancedTower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.GuardTower" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Buildings\GuardTower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Obelisk" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAgAAEAAAAAAAAA=</HashCode>
+      <FileName>Classes\Buildings\Obelisk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Pillbox" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Buildings\Pillbox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Silo" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAIAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Buildings\Silo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Commando" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Enemy\Commando.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Engineer" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Enemy\Engineer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Grenadier" Collapsed="true">
+    <Position X="21.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Enemy\Grenadier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.RocketSoldier" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Enemy\RocketSoldier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Soldier" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Enemy\Soldier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Enemy" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAABCAAgAQAAAAAAAAAAAAAQAAAAAAAAAAIAI=</HashCode>
+      <FileName>Classes\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Game1" Collapsed="true">
+    <Position X="20" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQEEAAAAAAEwAACAAAQAAACAAAAAgBAAAgAAAAAwQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Button" Collapsed="true">
+    <Position X="18.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAgAAgAAAIAAIAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Constants" Collapsed="true">
+    <Position X="20" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAQAEAAAAAAgAAAABBQAABAAAIAABEAgAAAgAA=</HashCode>
+      <FileName>Misc\Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Explosion" Collapsed="true">
+    <Position X="16.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAEAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Explosion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.EnemyManager" Collapsed="true">
+    <Position X="21.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Misc\Managers\EnemyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.BuildingManager" Collapsed="true">
+    <Position X="16.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICQAAAAAQAAAAgAAAAAAAAAAAAAAAAgAgAQAAAAAAAA=</HashCode>
+      <FileName>Misc\Managers\BuildingManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.ExplosionManager" Collapsed="true">
+    <Position X="18.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAACEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Managers\ExplosionManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.LevelManager" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAMAAAgACAAgAAAAECAAAAEAAAEAoAIAACAAAAAIQ=</HashCode>
+      <FileName>Misc\Managers\LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.MediaHandler" Collapsed="true">
+    <Position X="16.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAQAAAAAAAQAAAAAAAQIQggAAAAAABAAAAIgQ=</HashCode>
+      <FileName>Misc\Managers\MediaHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.MenuManager" Collapsed="true">
+    <Position X="18.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAgAAAgEAAAAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Managers\MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.TextureManager" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BsAAAAEAAEAAMCAICADAAACACgAAAQAAABAgAAAAhSQ=</HashCode>
+      <FileName>Misc\Managers\TextureManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Particle" Collapsed="true">
+    <Position X="20" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAABAAAAAggAgAAAAAAABAAAAAAAAAEIAgAAEAAA=</HashCode>
+      <FileName>Misc\Particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.ParticleEngine" Collapsed="true">
+    <Position X="21.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAAAgAAABABAAAAAAAEAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Misc\ParticleEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Player" Collapsed="true">
+    <Position X="23.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAZAABAAAgAAAgECCAAAQAAAgAAIAAgEAAAgAAAAAAA=</HashCode>
+      <FileName>Misc\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.SuperClass" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwACAAAAAAABgAgQoAAIQAAAAAEAgAAAAAAAAAIAAg=</HashCode>
+      <FileName>Misc\SuperClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Proj5_byYakupY.Program" Collapsed="true">
+    <Position X="16.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Proj5_byYakupY.Levels" Collapsed="true">
+    <Position X="20" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Misc\Managers\LevelManager.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="BuildingState" Collapsed="true">
+    <Position X="16.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAABAAAAAAAAAAIBAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Building.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GameState" Collapsed="true">
+    <Position X="18.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAIAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ModeState" Collapsed="true">
+    <Position X="21.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAABQAAAAAAAAAAAAIAAAAAAAAEAAAA=</HashCode>
+      <FileName>Misc\Player.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

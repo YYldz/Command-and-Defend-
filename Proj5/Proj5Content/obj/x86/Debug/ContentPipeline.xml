@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Misc\grass.png</Source>
+      <Name>Misc\grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\grass.xnb</Output>
+      <Time>2014-01-04T01:58:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\background.png</Source>
+      <Name>Misc\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\background.xnb</Output>
+      <Time>2014-01-15T21:51:19+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buildings\pboxIcon.png</Source>
+      <Name>Buildings\pboxIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Buildings\pboxIcon.xnb</Output>
+      <Time>2014-01-08T18:22:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buildings\pillbox.png</Source>
+      <Name>Buildings\pillbox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Buildings\pillbox.xnb</Output>
+      <Time>2014-01-08T18:10:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buildings\obeliskIcon.png</Source>
+      <Name>Buildings\obeliskIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Buildings\obeliskIcon.xnb</Output>
+      <Time>2014-01-08T18:25:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buildings\obelisk.png</Source>
+      <Name>Buildings\obelisk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Buildings\obelisk.xnb</Output>
+      <Time>2014-01-08T18:44:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\particle1.png</Source>
+      <Name>Misc\particle1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\particle1.xnb</Output>
+      <Time>2014-01-11T04:37:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\particle2.png</Source>
+      <Name>Misc\particle2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\particle2.xnb</Output>
+      <Time>2014-01-11T04:37:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\particle3.png</Source>
+      <Name>Misc\particle3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\particle3.xnb</Output>
+      <Time>2014-01-11T04:37:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Price1.png</Source>
+      <Name>Misc\Price1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\Price1.xnb</Output>
+      <Time>2014-02-08T03:09:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Price2.png</Source>
+      <Name>Misc\Price2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\Price2.xnb</Output>
+      <Time>2014-02-08T03:08:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\rt.png</Source>
+      <Name>Misc\rt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\rt.xnb</Output>
+      <Time>2014-01-30T18:24:35+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\splash.png</Source>
+      <Name>Misc\splash</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\splash.xnb</Output>
+      <Time>2014-01-15T19:58:13+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\splashbutton.png</Source>
+      <Name>Misc\splashbutton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\splashbutton.xnb</Output>
+      <Time>2014-01-15T19:58:13+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\splashbutton2.png</Source>
+      <Name>Misc\splashbutton2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\splashbutton2.xnb</Output>
+      <Time>2014-01-15T19:58:13+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\trans.png</Source>
+      <Name>Misc\trans</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\trans.xnb</Output>
+      <Time>2014-01-15T20:44:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\gdi.png</Source>
+      <Name>Enemies\gdi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Enemies\gdi.xnb</Output>
+      <Time>2014-01-15T21:23:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Enemies\gdi2.png</Source>
+      <Name>Enemies\gdi2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Enemies\gdi2.xnb</Output>
+      <Time>2014-01-15T21:27:55+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buildings\silo.png</Source>
+      <Name>Buildings\silo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Buildings\silo.xnb</Output>
+      <Time>2014-01-21T03:26:59+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buildings\siloIcon.png</Source>
+      <Name>Buildings\siloIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Buildings\siloIcon.xnb</Output>
+      <Time>2014-01-21T03:26:59+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Price3.png</Source>
+      <Name>Misc\Price3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\Price3.xnb</Output>
+      <Time>2014-02-08T03:04:16+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buildings\pboxDMGIcon.png</Source>
+      <Name>Buildings\pboxDMGIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Buildings\pboxDMGIcon.xnb</Output>
+      <Time>2014-02-07T23:08:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Buildings\pboxSpdIcon.png</Source>
+      <Name>Buildings\pboxSpdIcon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Buildings\pboxSpdIcon.xnb</Output>
+      <Time>2014-02-07T23:03:15+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Price4.png</Source>
+      <Name>Misc\Price4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\Price4.xnb</Output>
+      <Time>2014-02-08T03:03:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\Price5.png</Source>
+      <Name>Misc\Price5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\Price5.xnb</Output>
+      <Time>2014-02-08T03:12:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\whitePixel.bmp</Source>
+      <Name>Misc\whitePixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\whitePixel.xnb</Output>
+      <Time>2014-04-21T19:34:21+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Misc\font.spritefont</Source>
+      <Name>Misc\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Misc\font.xnb</Output>
+      <Time>2014-01-12T04:36:27+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\aoi.mp3</Source>
+      <Name>Media\aoi</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\aoi.xnb</Output>
+      <Extra>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\aoi.wma</Extra>
+      <Time>2014-01-16T03:54:26+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\chaingn1.wav</Source>
+      <Name>Media\chaingn1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\chaingn1.xnb</Output>
+      <Time>2014-01-16T04:49:47+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\obelray1.wav</Source>
+      <Name>Media\obelray1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\obelray1.xnb</Output>
+      <Time>2014-01-16T04:49:47+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\silencer.wav</Source>
+      <Name>Media\silencer</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\silencer.xnb</Output>
+      <Time>2014-02-08T02:06:21+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\cashturn.wav</Source>
+      <Name>Media\cashturn</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\cashturn.xnb</Output>
+      <Time>2014-02-09T04:09:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\clicky1.wav</Source>
+      <Name>Media\clicky1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\clicky1.xnb</Output>
+      <Time>2014-02-09T04:09:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\credup1.wav</Source>
+      <Name>Media\credup1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\credup1.xnb</Output>
+      <Time>2014-02-09T04:09:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\place2.wav</Source>
+      <Name>Media\place2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\place2.xnb</Output>
+      <Time>2014-02-09T04:09:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\scold8.wav</Source>
+      <Name>Media\scold8</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\scold8.xnb</Output>
+      <Time>2014-02-09T04:09:48+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Media\emblem.wav</Source>
+      <Name>Media\emblem</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\Media\emblem.xnb</Output>
+      <Time>2014-02-09T04:24:52+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupYContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupYContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Coldii\Dropbox\Programmering C#\Projekt 5 - Tower Defense\Inlämning\Projekt 5\Proj5_byYakupY\Proj5_byYakupY\Proj5_byYakupY\Spline.dll</Key>
+        <Value>2012-11-29T12:00:22+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-04-21T21:55:07.295426+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
